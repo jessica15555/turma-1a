@@ -1,1 +1,2 @@
-# turma1Apc
+# turma1a
+arquivos da aula de pensamento computacional
