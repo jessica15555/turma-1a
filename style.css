@@ -6,6 +6,6 @@ h1 {
     color: rgb(243, 228, 210);
  font-size: 20px;
 }
- h1{
-color: rgb(159, 78, 235);
-p}
+p {
+    text-align: justify;
+    font-size: 20px;
